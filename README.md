@@ -3,6 +3,7 @@
 
 **[View the StoryMap](https://storymaps.arcgis.com/stories/d6ea87d420ce4c45b23746d422b7c8b2)** 
 
+**🗺️ Click the map below to open the interactive web app**
 [![Kelp canopy decline from 2008 to 2017](kelp_decline_map.png)](https://ucboulder.maps.arcgis.com/apps/mapviewer/index.html?webmap=475d9c5f1b964ffeb045b5ad30a6e3ed)
 
 ## Overview
