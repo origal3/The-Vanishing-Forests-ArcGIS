@@ -9,7 +9,7 @@ Between 2013 and 2019, more than 95% of the bull kelp forests along California's
 
 ## Maps
 ### Kelp Canopy Decline, 2008 vs. 2017
-**🗺️ Click the map below to open the interactive web app**
+**Click the map below to open the interactive Web Map**
 [![Kelp canopy decline from 2008 to 2017](kelp_decline_map.png)](https://ucboulder.maps.arcgis.com/apps/mapviewer/index.html?webmap=475d9c5f1b964ffeb045b5ad30a6e3ed)
 Interactive web map comparing kelp canopy extent in 2008 (green) and 2017 (red) along the Sonoma and Mendocino coast. Click the image above to open the live map.
 
