@@ -3,15 +3,14 @@
 
 **[View the StoryMap](https://storymaps.arcgis.com/stories/d6ea87d420ce4c45b23746d422b7c8b2)** 
 
-**🗺️ Click the map below to open the interactive web app**
-[![Kelp canopy decline from 2008 to 2017](kelp_decline_map.png)](https://ucboulder.maps.arcgis.com/apps/mapviewer/index.html?webmap=475d9c5f1b964ffeb045b5ad30a6e3ed)
 
 ## Overview
 Between 2013 and 2019, more than 95% of the bull kelp forests along California's North Coast disappeared, replaced by urchin barrens. This project maps the decline of kelp canopy and links it to the climate-driven stressors behind the collapse.
 
 ## Maps
-
 ### Kelp Canopy Decline, 2008 vs. 2017
+**🗺️ Click the map below to open the interactive web app**
+[![Kelp canopy decline from 2008 to 2017](kelp_decline_map.png)](https://ucboulder.maps.arcgis.com/apps/mapviewer/index.html?webmap=475d9c5f1b964ffeb045b5ad30a6e3ed)
 Interactive web map comparing kelp canopy extent in 2008 (green) and 2017 (red) along the Sonoma and Mendocino coast. Click the image above to open the live map.
 
 ### Sea Surface Temperature Anomalies, 2013–2016
